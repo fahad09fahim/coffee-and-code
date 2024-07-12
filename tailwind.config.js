@@ -7,5 +7,13 @@ export default {
   theme: {
     extend: {},
   },
-  plugins: [],
+  daisyui: {
+    themes: ["light"],
+ },
+  plugins: [
+    require('daisyui'),
+  ],
 }
+
+
+// https://i.postimg.cc/8c64sKDR/banner-Img.png
