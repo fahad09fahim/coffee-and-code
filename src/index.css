@@ -2,3 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base{
+  .img-shadow{
+    filter: drop-shadow(40px 50px 25px #6F4E37);
+    
+  }
+}

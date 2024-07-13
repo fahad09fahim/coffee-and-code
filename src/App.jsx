@@ -1,14 +1,11 @@
-import Header from "./components/Header"
-
+import Hero from "./components/Hero";
 
 function App() {
-
-
   return (
-    <>
-  <Header/>
-    </>
-  )
+    <div className="overflow-x-hidden">
+      <Hero />
+    </div>
+  );
 }
 
-export default App
+export default App;

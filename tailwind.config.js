@@ -16,4 +16,3 @@ export default {
 }
 
 
-// https://i.postimg.cc/8c64sKDR/banner-Img.png
